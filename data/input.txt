@@ -1,0 +1,9 @@
+IDLE
+PUSH 10
+PUSH 15
+STORE {var_a}
+INC {var_a}
+ADD 15 {var_a}
+PRINT
+STORE {var_a}
+PRINT {var_a}
